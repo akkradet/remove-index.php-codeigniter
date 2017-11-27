@@ -6,9 +6,10 @@
 - แก้ไขไฟล์ /system/application/config/config.php
 
 จาก
-```php
-$config['index_page']="index.php";
+`php
+$config['index_page']="index.php";`
 
 เป็น
-```php
-$config['index_page']="";
+
+`php
+$config['index_page']="";`
