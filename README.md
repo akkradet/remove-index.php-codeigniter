@@ -6,6 +6,7 @@
 - แก้ไขไฟล์ /system/application/config/config.php
 
 จาก
+
 `php
 $config['index_page']="index.php";`
 
